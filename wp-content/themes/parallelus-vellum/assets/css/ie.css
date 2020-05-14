@@ -1,0 +1,5 @@
+/*
+ * Styles for older IE versions (previous to IE9) 
+ * This file is a resource only. It is not loaded by the theme by default but can be added as needed for advanced backwards compatibility.
+*/
+.screen-reader-text { clip: rect(1px 1px 1px 1px); } /* IE7 */
